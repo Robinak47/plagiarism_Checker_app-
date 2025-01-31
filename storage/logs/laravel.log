@@ -1,0 +1,4 @@
+[2025-01-30 17:22:27] local.ERROR: Maximum execution time of 60 seconds exceeded {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Maximum execution time of 60 seconds exceeded at C:\\Users\\khair\\Desktop\\MyAppLaravel\\vendor\\guzzlehttp\\guzzle\\src\\Handler\\CurlHandler.php:45)
+[stacktrace]
+#0 {main}
+"} 
